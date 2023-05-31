@@ -1,0 +1,30 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.verde-limao {
+    color: #daff01;
+}
+
+.botao-lilas {
+    background-color: #9353ff;
+    color: white;
+    text-decoration: none;
+    padding: 0.5em 0.75em;
+}
+
+.botao-lilas:hover {
+    background-color: #fff;
+    color: #9353ff;
+    transition: 0.3s;
+    border: solid 2px #9353ff;
+}
+
+.rodape-texto:hover {
+    color: #daff01;
+    transition: 0.7s;
+}
